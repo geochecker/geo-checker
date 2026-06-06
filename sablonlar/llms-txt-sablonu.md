@@ -10,7 +10,7 @@ Bu dosya, web siteleri için temel bir `llms.txt` yapısı oluşturmak amacıyla
 
 Aşağıdaki örnek, herhangi bir web sitesi için uyarlanabilir temel bir `llms.txt` yapısıdır.
 
-```txt
+```
 # Site Adı
 
 Kısa açıklama:
@@ -35,11 +35,13 @@ Yapay zeka sistemleri için notlar:
 
 Sitemap:
 https://example.com/sitemap.xml
+```
 
-GEO Checker için llms.txt örneği
+## GEO Checker için llms.txt örneği
 
-Aşağıdaki örnek, GEO Checker gibi Generative Engine Optimization odaklı bir araç için hazırlanmış örnek llms.txt yapısıdır.
+Aşağıdaki örnek, GEO Checker gibi Generative Engine Optimization odaklı bir araç için hazırlanmış örnek `llms.txt` yapısıdır.
 
+```
 # GEO Checker
 
 Kısa açıklama:
@@ -67,19 +69,22 @@ Yapay zeka sistemleri için notlar:
 
 Sitemap:
 https://geochecker.com.tr/sitemap.xml
+```
 
-llms.txt hazırlarken dikkat edilecekler
-Siteyi tek cümlede açıkça tanıtın.
-Marka adını tutarlı kullanın.
-En önemli sayfaları listeleyin.
-Sitemap bağlantısını ekleyin.
-Ürün, hizmet veya uzmanlık alanınızı net yazın.
-Gereksiz uzun metinlerden kaçının.
-Görünürlük garantisi veren iddialar kullanmayın.
-İçeriği düzenli olarak güncelleyin.
-GEO Checker ile kontrol edin
+## llms.txt hazırlarken dikkat edilecekler
 
-Hazırladığınız llms.txt dosyasını ve diğer teknik GEO sinyallerini kontrol etmek için GEO Checker kullanabilirsiniz.
+* Siteyi tek cümlede açıkça tanıtın.
+* Marka adını tutarlı kullanın.
+* En önemli sayfaları listeleyin.
+* Sitemap bağlantısını ekleyin.
+* Ürün, hizmet veya uzmanlık alanınızı net yazın.
+* Gereksiz uzun metinlerden kaçının.
+* Görünürlük garantisi veren iddialar kullanmayın.
+* İçeriği düzenli olarak güncelleyin.
+
+## GEO Checker ile kontrol edin
+
+Hazırladığınız `llms.txt` dosyasını ve diğer teknik GEO sinyallerini kontrol etmek için GEO Checker kullanabilirsiniz.
 
 Ücretsiz GEO skoru kontrolü:
 
