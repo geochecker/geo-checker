@@ -1,14 +1,14 @@
 # llms.txt Şablonu
 
-Bu şablon, web siteleri için temel bir `llms.txt` dosyası oluşturmak amacıyla hazırlanmıştır.
+Bu dosya, web siteleri için temel bir `llms.txt` yapısı oluşturmak amacıyla hazırlanmıştır.
 
 `llms.txt`, yapay zeka sistemlerine sitenizin kim olduğunu, hangi sayfaların önemli olduğunu ve içeriğinizin nasıl anlaşılması gerektiğini daha net anlatmaya yardımcı olabilir.
 
-> Not: `llms.txt` tek başına ChatGPT, Perplexity, Gemini veya Google AI cevaplarında görünürlük garantisi vermez. Teknik GEO sinyallerinden yalnızca biridir.
+> Not: `llms.txt` tek başına ChatGPT, Perplexity, Gemini, Claude veya Google AI cevaplarında görünürlük garantisi vermez. Teknik GEO sinyallerinden yalnızca biridir.
 
 ## Temel llms.txt örneği
 
-Aşağıdaki örnek, herhangi bir web sitesi için uyarlanabilir temel bir yapıdır.
+Aşağıdaki örnek, herhangi bir web sitesi için uyarlanabilir temel bir `llms.txt` yapısıdır.
 
 ```txt
 # Site Adı
@@ -76,7 +76,7 @@ Sitemap bağlantısını ekleyin.
 Ürün, hizmet veya uzmanlık alanınızı net yazın.
 Gereksiz uzun metinlerden kaçının.
 Görünürlük garantisi veren iddialar kullanmayın.
-İçerikleri düzenli olarak güncelleyin.
+İçeriği düzenli olarak güncelleyin.
 GEO Checker ile kontrol edin
 
 Hazırladığınız llms.txt dosyasını ve diğer teknik GEO sinyallerini kontrol etmek için GEO Checker kullanabilirsiniz.
